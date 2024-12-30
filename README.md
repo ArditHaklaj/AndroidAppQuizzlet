@@ -153,9 +153,9 @@ Key files to note:
 ---
 
 ## Screenshots
-![Quiz](https://github.com/user-attachments/assets/812ef34f-e3df-4ed2-8b43-9044774979ae)
-![Home](https://github.com/user-attachments/assets/3f9ba70c-0de1-49d9-a0b7-fc6c6d3bde81)
-![Login](https://github.com/user-attachments/assets/f6565eb1-2775-4a09-9b04-5dadafd5cb4f)
+![Login](https://github.com/user-attachments/assets/9cef3823-660d-49a7-9cb7-95098b8de194)
+![Home](https://github.com/user-attachments/assets/a5576b18-f8cd-478f-acec-c3d4cf8ace02)
+![Quiz](https://github.com/user-attachments/assets/2e3a9f45-e4fa-4b8f-8bac-5fb16bcc01e8)
 
 ---
 
